@@ -22,4 +22,3 @@ dependencies:
 - pyyaml
 - traittypes==0.0.6
 - invoke=0.21
-- jupyterlab_launcher
